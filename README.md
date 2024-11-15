@@ -8,7 +8,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Reginaldo Torres Junior e tenho 31 anos, sou Desenvolvedor full-stack com experiência em Vue.js, React.js, Laravel, Docker e CI/CD. Focado em criar sistemas web escaláveis e responsivos, integrando APIs avançadas e aplicando boas práticas com Git/Gitflow. Atualmente, me preparo para a certificação AWS Cloud Practitioner.
+Me chamo Reginaldo Torres Junior e tenho 31 anos, sou Desenvolvedor full-stack com vasta experiência em diversas tecnologias das quais me identifico mais Vue.js, React.js e Laravel. Focado em criar sistemas web escaláveis e responsivos, integrando APIs avançadas e aplicando boas práticas com Git/Gitflow. Atualmente, me preparo para a certificação AWS Cloud Practitioner.
 
 <!-- Social icons section -->
 <!-- <p align="center">
